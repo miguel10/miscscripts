@@ -6,7 +6,7 @@
 #  hadoop_krb.conf - configuration file
 #  hadoop_svcaccount.list - file containing list of service accounts to create
 #  hadoop_node.list - list of FQDN hosts to generate keytabs for
-#
+#  Dell QAS - vastool
 
 # Check for vastool
 command -v vastool >/dev/null 2>&1 || { echo "Can't find vastool... Aborting." >&2; exit 1; }

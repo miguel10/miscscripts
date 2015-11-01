@@ -1,6 +1,7 @@
 #/bin/sh
 #
 # Script to deploy oozie coordinator jobs
+# Apache oozie: http://oozie.apache.org/
 #
 
 # Define Environmental Vars

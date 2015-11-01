@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #
 #  One-off script for handling corrupt avro files
-#
+#  Apache Avro: https://avro.apache.org/
 
 import os
 import sys
